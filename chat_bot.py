@@ -1,7 +1,7 @@
 import requests
 import datetime
 
-token = 'bot1398941863:AAFMmwqOo3vpW8gfiVtEyfCQ9l5m6KdCV98'
+token = '1398941863:AAFMmwqOo3vpW8gfiVtEyfCQ9l5m6KdCV98'
 
 class BotHandler:
 
